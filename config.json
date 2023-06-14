@@ -1,0 +1,9 @@
+{
+	"ip":"aeternhug.aternos.me",
+	"port": "63904",
+	"name": "Bot Stay Server",
+	"auto-night-skip":"true",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
